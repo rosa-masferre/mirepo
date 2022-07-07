@@ -1,8 +1,4 @@
 
 #!/bin/bash
-echo "otro repo mirepo"
-echo "quite una linea"
-echo "pongo otra, son 3"
-echo "a ver si al fin funciona con el commit"
-echo "pa que ande"
-echo "que haaaaaaaaaaaaaaaaaaaaaa"
+echo "creo que lo encontre"
+
