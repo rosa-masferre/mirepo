@@ -1,5 +1,6 @@
 
 #!/bin/bash
 echo "otro repo mirepo"
-echo "otor repo.sh"
+echo "quite una linea"
+echo "pongo otra, son 3"
 
